@@ -174,17 +174,17 @@ function onStepHit()
 		setTextSize('diof', 32)
 		setTextAlignment('diof', 'center')
 		addLuaText('diof')
-         	setTextColor('diof',  getColorFromHex('FlxColor.RED'))
+        	setTextColor('diof', 'c11d1d')
 	end
 	if curStep == 1667 then
 		removeLuaText('diof', true)
 	end
 	if curStep == 1676 then
-		makeLuaText('diofi', '*maniacal cackling*', 364, 470, 630)
-		setTextSize('diofi', 60)
+		makeLuaText('diofi', '*maniacal cackling*', 464, 420, 630)
+		setTextSize('diofi', 32)
 		setTextAlignment('diofi', 'center')
 		addLuaText('diofi')
-		setTextColor('diofi', getColorFromHex('FlxColor.RED'))
+        	setTextColor('diofi', 'c11d1d')
 	end
 	if curStep == 1780 then
 		removeLuaText('diofi', true)
