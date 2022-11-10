@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				900,
+				640
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "sanic idle"
+		},
+		{
+			"offsets": [
+				909,
+				636
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "sanic left"
+		},
+		{
+			"offsets": [
+				920,
+				650
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "sanic right"
+		},
+		{
+			"offsets": [
+				950,
+				540
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "sanic down"
+		},
+		{
+			"offsets": [
+				914,
+				611
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "sanic up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sanic",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sanic",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		88,
+		183
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.3
+}

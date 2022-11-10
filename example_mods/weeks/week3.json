@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"triple-trouble",
+			"beast",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": true,
+	"weekBackground": "",
+	"difficulties": "exe",
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"storyName": "exe again again",
+	"weekName": "Exe tt",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week2",
+	"startUnlocked": false
+}

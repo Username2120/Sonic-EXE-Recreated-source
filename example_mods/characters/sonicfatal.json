@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				-100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Fatal sonic down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-100
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Fatal sonic idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-100
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Fatal sonic left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-100
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Fatal sonic right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-100
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Fatal sonic up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fatal-error-sonic",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "fatal-sonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-700,
+		-430
+	],
+	"sing_duration": 4,
+	"scale": 4
+}

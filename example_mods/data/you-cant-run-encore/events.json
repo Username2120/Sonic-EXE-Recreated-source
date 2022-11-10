@@ -1,0 +1,168 @@
+{
+	"song": {
+		"events": [
+			[
+				13714.2857142857,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				13928.5714285714,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				14142.8571428571,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				14357.1428571429,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				14571.4285714286,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				14785.7142857143,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				15000,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				35142.8571428571,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				35357.1428571429,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				35571.4285714286,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				35785.7142857143,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				56464.2857142857,
+				[
+					[
+						"bgchange",
+						"GreenHill",
+						"stageswitch"
+					]
+				]
+			],
+			[
+				56571.4285714286,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sonicexe-ycr-pixel"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-ycr-pixel"
+					],
+					[
+						"Change Character",
+						"gf",
+						"Pixel-gf"
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sonicexeycr-mad"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-encore"
+					],
+					[
+						"Change Character",
+						"gf",
+						"gf"
+					]
+				],
+				null,
+				""
+			]
+		]
+	}
+}

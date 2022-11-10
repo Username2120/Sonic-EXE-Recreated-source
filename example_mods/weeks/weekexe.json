@@ -1,0 +1,50 @@
+{
+	"storyName": "EXE",
+	"difficulties": "exe",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"too-slow",
+			"sonicexe",
+			[
+				46,
+				193,
+				215
+			]
+		],
+		[
+			"you-cant-run",
+			"ycr",
+			[
+				0,
+				53,
+				255
+			]
+		],
+		[
+			"triple-trouble",
+			"beast",
+			[
+				126,
+				40,
+				213
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

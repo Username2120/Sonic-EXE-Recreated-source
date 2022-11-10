@@ -1,0 +1,32 @@
+{
+	"storyName": "exe again",
+	"difficulties": "exe",
+	"hideFreeplay": true,
+	"weekBackground": "",
+	"weekBefore": "week1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"you-cant-run",
+			"ycr",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "Exe ycr"
+}

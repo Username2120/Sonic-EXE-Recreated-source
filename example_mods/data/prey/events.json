@@ -1,0 +1,116 @@
+{
+	"song": {
+		"events": [
+			[
+				10909.0909090909,
+				[
+					[
+						"Image Flash",
+						"white",
+						"0.5"
+					]
+				]
+			],
+			[
+				131676.136363636,
+				[
+					[
+						"Change Character",
+						"dad",
+						"starved-pixel"
+					]
+				]
+			],
+			[
+				131761.363636364,
+				[
+					[
+						"Cinematics",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				131846.590909091,
+				[
+					[
+						"Play Animation",
+						"first dialogue",
+						"1"
+					]
+				]
+			],
+			[
+				152215.909090909,
+				[
+					[
+						"Cinematics",
+						"2",
+						"0.5"
+					]
+				]
+			],
+			[
+				152301.136363636,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-Sonic-Peelout"
+					]
+				]
+			],
+			[
+				283977.272727272,
+				[
+					[
+						"Cinematics",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				284062.499999999,
+				[
+					[
+						"Change Character",
+						"gf",
+						"furnace-flipped"
+					]
+				]
+			],
+			[
+				284232.954545453,
+				[
+					[
+						"Play Animation",
+						"dialogue peel",
+						"bf"
+					]
+				]
+			],
+			[
+				287130.681818181,
+				[
+					[
+						"Image Flash",
+						"red",
+						"1"
+					]
+				]
+			],
+			[
+				287812.499999999,
+				[
+					[
+						"Image Appearance",
+						"blackscreen",
+						"5"
+					]
+				]
+			]
+		]
+	}
+}

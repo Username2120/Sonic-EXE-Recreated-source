@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				310,
+				310
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				290,
+				227
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "singLEFT"
+		},
+		{
+			"offsets": [
+				160,
+				220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "singRIGHT"
+		},
+		{
+			"offsets": [
+				350,
+				220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "singDOWN"
+		},
+		{
+			"offsets": [
+				184,
+				361
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "singUP"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				45,
+				40
+			],
+			"anim": "stare",
+			"fps": 24,
+			"name": "creepystare",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				40
+			],
+			"anim": "smile",
+			"fps": 24,
+			"name": "creepysmile",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tailsdoll_p2",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sbtails",
+	"flip_x": false,
+	"healthbar_colors": [
+		238,
+		154,
+		0
+	],
+	"camera_position": [
+		-200,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,16 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"MoveArrowsToMiddle",
+						"0",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}

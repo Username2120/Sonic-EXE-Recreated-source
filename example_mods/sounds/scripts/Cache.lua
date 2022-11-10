@@ -1,0 +1,15 @@
+function onCreate()
+    precacheImage('daSTAT')
+    precacheImage('hitStatic')
+    precacheImage('endlessNoteSplashes')
+    precacheImage('Majin_Notes')
+    precacheImage('ready')
+    precacheImage('set')
+    precacheImage('go')
+    precacheImage('simplejump')
+    precacheImage('sonicJUMPSCARE')
+    precacheSound('SUPERBF')
+    precacheSound('datOneSound')
+    precacheSound('staticBUZZ')
+
+end

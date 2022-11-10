@@ -1,0 +1,41 @@
+{
+	"song": {
+		"events": [
+			[
+				15750,
+				[
+					[
+						"Image Flash",
+						"daSTAT",
+						"0.5"
+					]
+				]
+			],
+			[
+				123937.5,
+				[
+					[
+						"Image Flash",
+						"daSTAT",
+						"0.5"
+					]
+				]
+			],
+			[
+				124000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fataltrue"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-fatal-small"
+					]
+				]
+			]
+		]
+	}
+}

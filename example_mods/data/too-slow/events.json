@@ -1,0 +1,131 @@
+{
+	"song": {
+		"events": [
+			[
+				84638.888888889,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				84888.888888889,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				85138.888888889,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				85388.888888889,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				85638.888888889,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				85888.888888889,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				86138.888888889,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				128888.888888889,
+				[
+					[
+						"Change Character",
+						"dad",
+						"snocexeanim"
+					]
+				]
+			],
+			[
+				129638.888888889,
+				[
+					[
+						"Hud Fade",
+						"0.5",
+						"0"
+					],
+					[
+						"Note Fade",
+						"1",
+						"0.5"
+					],
+					[
+						"Note Fade",
+						"2",
+						"0.5"
+					]
+				]
+			],
+			[
+				140222.222222222,
+				[
+					[
+						"Change Character",
+						"dad",
+						"snocexe"
+					],
+					[
+						"Hud Fade",
+						"0.5",
+						"1"
+					],
+					[
+						"Note Fade",
+						"1.5",
+						"0.5"
+					],
+					[
+						"Note Fade",
+						"2.5",
+						"0.5"
+					]
+				]
+			]
+		]
+	}
+}

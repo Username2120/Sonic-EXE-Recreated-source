@@ -1,0 +1,140 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "exe",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"endless",
+			"majin-og",
+			[
+				0,
+				20,
+				255
+			]
+		],
+		[
+			"cycles",
+			"soylent",
+			[
+				160,
+				173,
+				255
+			]
+		],
+		[
+			"sunshine",
+			"SBTAILS",
+			[
+				226,
+				153,
+				33
+			]
+		],
+		[
+			"Soulless",
+			"sbtails",
+			[
+				226,
+				153,
+				33
+			]
+		],
+		[
+			"Chaos",
+			"fleetway",
+			[
+				235,
+				213,
+				0
+			]
+		],
+		[
+			"Faker",
+			"faker",
+			[
+				36,
+				36,
+				144
+			]
+		],
+		[
+			"Black-Sun",
+			"exe",
+			[
+				49,
+				24,
+				167
+			]
+		],
+		[
+			"prey",
+			"furnace",
+			[
+				35,
+				40,
+				53
+			]
+		],
+		[
+			"fight-or-flight",
+			"starved",
+			[
+				255,
+				20,
+				33
+			]
+		],
+		[
+			"milk",
+			"sunky",
+			[
+				26,
+				80,
+				255
+			]
+		],
+		[
+			"too fest",
+			"sanic",
+			[
+				46,
+				120,
+				255
+			]
+		],
+		[
+			"personel",
+			"coldsteel",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"fate",
+			"soylent",
+			[
+				160,
+				173,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

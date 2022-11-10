@@ -1,0 +1,51 @@
+{
+	"song": {
+		"events": [
+			[
+				84000,
+				[
+					[
+						"bgchange",
+						"blackscreen",
+						"stageswitch"
+					],
+					[
+						"Change Character",
+						"dad",
+						"TailsDollDark"
+					],
+					[
+						"Change Character",
+						"bf",
+						"gfwentpoof"
+					],
+					[
+						"MoveArrowsToMiddle",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				122857.142857143,
+				[
+					[
+						"MoveArrowsToMiddle",
+						"0",
+						"0"
+					],
+					[
+						"Change Character",
+						"dad",
+						"Tailsdoll"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bftd"
+					]
+				]
+			]
+		]
+	}
+}

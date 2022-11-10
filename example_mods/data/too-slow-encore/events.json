@@ -1,0 +1,158 @@
+{
+	"song": {
+		"events": [
+			[
+				44215.0537634409,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				],
+				null,
+				"No Animation"
+			],
+			[
+				44408.6021505376,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				44602.1505376344,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				44795.6989247312,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				44989.247311828,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				45182.7956989247,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				45376.3440860215,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				45473.1182795699,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"1"
+					]
+				]
+			],
+			[
+				92388.3718590076,
+				[
+					[
+						"Change Character",
+						"dad",
+						"snocexeanim"
+					]
+				]
+			],
+			[
+				104052.44748926,
+				[
+					[
+						"Change Character",
+						"dad",
+						"snocexe"
+					]
+				]
+			],
+			[
+				135268.133763769,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				135610.990906626,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				135953.848049484,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				136296.705192341,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				136553.848049484,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				]
+			]
+		]
+	}
+}

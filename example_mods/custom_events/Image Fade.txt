@@ -1,0 +1,2 @@
+value 1: image you want to use
+value 2: wait timer before removel
