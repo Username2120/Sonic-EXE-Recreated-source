@@ -191,21 +191,6 @@ class SoundTestMenu extends MusicBeatState
 					LoadingState.loadAndSwitchState(new PlayState());
 				});
 			}
-		else if (first == 4 && second == 4)
-			{
-				woahmanstopspammin = false;
-				PlayState.SONG = Song.loadFromJson('fatality-exe', 'fatality');
-				PlayState.isStoryMode = false;
-				PlayState.storyDifficulty = 2;
-				PlayState.storyWeek = 1;
-				FlxTransitionableState.skipNextTransIn = true;
-				FlxTransitionableState.skipNextTransOut = true;
-				flashyWashy(true);
-				new FlxTimer().start(2, function(tmr:FlxTimer)
-				{
-					LoadingState.loadAndSwitchState(new PlayState());
-				});
-			}
 			else if (first == 31 && second == 13)
 			{
 				woahmanstopspammin = false;
@@ -240,6 +225,21 @@ class SoundTestMenu extends MusicBeatState
 			{
 				woahmanstopspammin = false;
 				PlayState.SONG = Song.loadFromJson('sunshine-exe', 'sunshine');
+				PlayState.isStoryMode = false;
+				PlayState.storyDifficulty = 2;
+				PlayState.storyWeek = 1;
+				FlxTransitionableState.skipNextTransIn = true;
+				FlxTransitionableState.skipNextTransOut = true;
+				flashyWashy(true);
+				new FlxTimer().start(2, function(tmr:FlxTimer)
+				{
+					LoadingState.loadAndSwitchState(new PlayState());
+				});
+			}
+		else if (first == 66 && second == 7)
+			{
+				woahmanstopspammin = false;
+				PlayState.SONG = Song.loadFromJson('soulless-exe', 'soulless');
 				PlayState.isStoryMode = false;
 				PlayState.storyDifficulty = 2;
 				PlayState.storyWeek = 1;
@@ -300,6 +300,21 @@ class SoundTestMenu extends MusicBeatState
 			{
 				woahmanstopspammin = false;
 				PlayState.SONG = Song.loadFromJson('too-fest-exe', 'too-fest');
+				PlayState.isStoryMode = false;
+				PlayState.storyDifficulty = 2;
+				PlayState.storyWeek = 1;
+				FlxTransitionableState.skipNextTransIn = true;
+				FlxTransitionableState.skipNextTransOut = true;
+				flashyWashy(true);
+				new FlxTimer().start(2, function(tmr:FlxTimer)
+				{
+					LoadingState.loadAndSwitchState(new PlayState());
+				});
+			}
+		else if (first == 69 && second == 37)
+			{
+				woahmanstopspammin = false;
+				PlayState.SONG = Song.loadFromJson('fate-exe', 'fate');
 				PlayState.isStoryMode = false;
 				PlayState.storyDifficulty = 2;
 				PlayState.storyWeek = 1;

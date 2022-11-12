@@ -174,7 +174,7 @@ function onStepHit()
 		setTextSize('diof', 32)
 		setTextAlignment('diof', 'center')
 		addLuaText('diof')
-        	setTextColor('diof', 'c11d1d')
+        setTextColor('diof', 'c11d1d')
 	end
 	if curStep == 1667 then
 		removeLuaText('diof', true)
@@ -184,7 +184,7 @@ function onStepHit()
 		setTextSize('diofi', 32)
 		setTextAlignment('diofi', 'center')
 		addLuaText('diofi')
-        	setTextColor('diofi', 'c11d1d')
+        setTextColor('diofi', 'c11d1d')
 	end
 	if curStep == 1780 then
 		removeLuaText('diofi', true)
